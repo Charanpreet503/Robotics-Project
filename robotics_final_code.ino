@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <Servo.h>
 #include <NewPing.h>
 
 #define echoPin 4 // attach pin D2 Arduino to pin Echo of HC-SR04
